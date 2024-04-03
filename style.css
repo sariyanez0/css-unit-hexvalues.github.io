@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
+
+.red{
+  background-color:red;
+  color:#a00101;
+}
+
+.orange{
+  background-color: orange;
+  color:#f47100;
+}
+
+.yellow{
+  background-color: yellow;
+  color: #f7c602;
+}
+
+.green{
+  background-color:green;
+  color:#05ff09;
+}
+
+.blue{
+  background-color: blue;
+  color: #2b2765;
+}
+
+.pink{
+  background-color: #ff86f4;
+}
+
+.blue-ish{
+  background-color: #8586f4;
+}
+
+.pink2{
+  background-color: #df166a;
+}
+
+img{
+    width:100px;
+    height:100px;
+    float:left;
+    padding: 1px;
+}
